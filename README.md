@@ -16,10 +16,10 @@
   <img src="https://user-images.githubusercontent.com/20471162/130909734-cdeaaf89-e369-4940-af7b-9979517b53bf.png" width=120 height=100 alt="GCI" />
 </div>
 
-## Certified Android Developer 
+## Awards and certifications
+- I'm a [Google Certified Android Developer](https://www.credential.net/4d4f2786-830d-4ec0-942e-765c84ad48d0?key=a541c9c5a93fca75c2cc878b2c8e46bce738a41b617447b449c0e75ee4fea12d)
 
-<div class="row" align="center">
-    <img src="https://user-images.githubusercontent.com/20471162/130911693-64144874-c817-4952-8a38-814020daa319.png" alt="Google Certified Android Developer" width=300 height=250 />
-</div>
+- I completed my [Android Developer Nanodegree](https://graduation.udacity.com/confirm/JFTEVDMA) through [Google India Scholarship](https://www.udacity.com/grow-with-google)
+
 
 
