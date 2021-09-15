@@ -21,5 +21,4 @@
 
 - I completed my [Android Developer Nanodegree](https://graduation.udacity.com/confirm/JFTEVDMA) through [Google India Scholarship](https://www.udacity.com/grow-with-google)
 
-
-
+- I successfully completed [Google Summer Of Code](https://summerofcode.withgoogle.com/archive/2018/projects/5003402689904640/) in 2018 under AOSSIE Organisation
